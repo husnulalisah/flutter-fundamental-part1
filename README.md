@@ -16,5 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ![Screenshot hello_word](images/01.png)
-![Screenshot text](images/01.png)
-![Screenshot hello_word](images/01.png)
+![Screenshot text_widget](images/02.png)
+![Screenshot image_widget](images/03.png)

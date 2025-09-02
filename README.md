@@ -52,7 +52,7 @@ Kode text_widget
 kode main dan hasil dari text_widget
 ![Screenshot](images/01.png)
 
-kemudian untuk image_widget, buat folder terlebih dahulu diluar lib dengan nama assets lalu masukan foto yang akan ditampilkan
+kemudian untuk image_widget, buat folder terlebih dahulu diluar lib dengan nama assets lalu masukan foto
 ![Screenshot](images/17.png)
 
 lihat di file pubspec.yml mengaktifkan assets masukan folder dan file fotonya

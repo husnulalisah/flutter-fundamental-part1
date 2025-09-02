@@ -32,37 +32,37 @@ klik titik tiga lalu push
 Lalu ada notifikasi di pojok kanan bawah kemudian di klik Add Remote
 ![Screenshot](images/11.png)
 
- ketik "orogin" sebagai nama remote dan opsi untuk menambahkan ke GitHub
- ![Screenshot](images/12.png)
+ketik "orogin" sebagai nama remote dan opsi untuk menambahkan ke GitHub
+![Screenshot](images/12.png)
 
 kemudian Output terminal yang menampilkan git push -u origin main yang berhasil,menampilkan progress upload dan konfirmasi push ke repository GitHub
- ![Screenshot](images/13.png)
+![Screenshot](images/13.png)
 
 Tampilan akhir di halaman repository GitHub
- ![Screenshot](images/14.png)
+![Screenshot](images/14.png)
 
-#MENERAPKAN WIDGET
+# MENERAPKAN WIDGET
 
 Buat file baru di dalam lib dengan dan text_widget dan image_widget
- ![Screenshot](images/15.png)
+![Screenshot](images/15.png)
 
 Kode text_widget
- ![Screenshot](images/16.png)
+![Screenshot](images/16.png)
 
 kode main dan hasil dari text_widget
- ![Screenshot](images/01.png)
+![Screenshot](images/01.png)
 
 kemudian untuk image_widget, buat folder terlebih dahulu diluar lib dengan nama assets lalu masukan foto yang akan ditampilkan
- ![Screenshot](images/17.png)
+![Screenshot](images/17.png)
 
 lihat di file pubspec.yml mengaktifkan assets masukan folder dan file fotonya
- ![Screenshot](images/18.png)
+![Screenshot](images/18.png)
 
 kode file image_widget
- ![Screenshot](images/19.png)
+![Screenshot](images/19.png)
 
 hasil dari image_widget
- ![Screenshot](images/03.png)
+![Screenshot](images/03.png)
 
 
 

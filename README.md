@@ -24,7 +24,12 @@ Kemudian masuk ke Source control pada Source control pilih file .gitignore lalu 
 ![Screenshot](images/8.png)
 
 Tambahkan "tambah gitignore" kemudian commit
+
 ![Screenshot](images/9.png)
+
+
+
+
 
 klik titik tiga lalu push
 ![Screenshot](images/10.png)

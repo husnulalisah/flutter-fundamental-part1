@@ -48,8 +48,12 @@ Tampilan akhir di halaman repository GitHub
 
 # MENERAPKAN WIDGET
 
+
 Buat file baru di dalam lib dengan dan text_widget dan image_widget
+
 ![Screenshot](images/15.png)
+
+
 
 Kode text_widget
 ![Screenshot](images/16.png)
